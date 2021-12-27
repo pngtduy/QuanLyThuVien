@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_THUVIEN", "QL_THUVIEN\QL_THUVIEN.csproj", "{0D82CA7C-F0EE-4FBF-8313-70D1A970D61E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_QLThuVien", "Setup_QLThuVien\Setup_QLThuVien.vdproj", "{3C336ADB-5CF8-4E6D-A851-800786447254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D82CA7C-F0EE-4FBF-8313-70D1A970D61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D82CA7C-F0EE-4FBF-8313-70D1A970D61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D82CA7C-F0EE-4FBF-8313-70D1A970D61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D82CA7C-F0EE-4FBF-8313-70D1A970D61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C336ADB-5CF8-4E6D-A851-800786447254}.Debug|Any CPU.ActiveCfg = Debug
+		{3C336ADB-5CF8-4E6D-A851-800786447254}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {861A8E03-EBD8-478B-81F9-0BA544417B79}
+	EndGlobalSection
+EndGlobal
